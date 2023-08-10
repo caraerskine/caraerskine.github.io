@@ -62,4 +62,8 @@ img {
     line-height: 1.3em;
     font-family: Georgia;
    }
-  
+
+   a { 
+    text-decoration: none; 
+    color: #3DED97;
+  }
