@@ -3,3 +3,49 @@ body {
     background: pink;
     text-align: center;
 }
+
+img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+  .username {
+    font-weight: bold;
+  }
+
+  em {
+    color: red;
+  }
+
+  .fa {
+    padding: 6px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+  }
+
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+  .fa-github {
+    background: #000000;
+    color: white;
+  }
+
+  p {
+    margin: 10px 0;
+    padding: 5px; 
+    /* border: 3px solid red; */
+    text-indent: 10px;
+   }
+  
