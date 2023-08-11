@@ -40,7 +40,12 @@ img {
   }
 
   .fa-github {
-    background: #000000;
+    background: #7905e6;
+    color: white;
+  }
+
+  .fa-medium {
+    background: #333333;
     color: white;
   }
 
@@ -67,3 +72,18 @@ img {
     text-decoration: none; 
     color: #3DED97;
   }
+
+  /* html {
+    cursor: url('../img/mycustomcursor.png'), pointer;
+} */
+
+a:hover {
+    cursor: url('https://uploads-ssl.webflow.com/62af52cf612c974768d3d8c9/6391280847a38f3cf5faf282_Group%202%20(7).svg'), auto !important;
+}
+body {
+cursor: url("https://uploads-ssl.webflow.com/62af52cf612c974768d3d8c9/639127c31795d00e2b0cc4c5_Group%207%20(4).svg"), auto !important;
+}
+.text-block-11:hover {
+    cursor: url('https://uploads-ssl.webflow.com/62af52cf612c974768d3d8c9/6391280847a38f3cf5faf282_Group%202%20(7).svg'), auto !important;
+}
+
