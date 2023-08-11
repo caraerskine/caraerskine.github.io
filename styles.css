@@ -2,8 +2,9 @@ body {
     margin: 5em;
     margin-top: 3em;
 
-    background: white;
-    text-align: center;
+    /* background: white; */
+    background: #fffff4;
+    text-align: left;
 }
 
 img {
@@ -24,7 +25,7 @@ img {
     padding: 6px;
     font-size: 30px;
     width: 30px;
-    text-align: center;
+    text-align: left;
     text-decoration: none;
     margin: 5px 2px;
     border-radius: 50%;
@@ -54,18 +55,24 @@ img {
     font-size: 2.0em;
     line-height: 1.3em;
     font-family: Helvetica;
+    text-align: left;
+    text-decoration: none;
   }
 
   h2 {
     font-size: 1.5em;
     line-height: 1.3em;
     font-family: Helvetica;
+    text-align: left;
+    text-decoration: none;
   }
 
   p {
     font-size: 1.5em;
     line-height: 1.3em;
     font-family: Georgia;
+    text-align: left;
+    text-decoration: none;
    }
 
    a { 
@@ -73,17 +80,16 @@ img {
     color: #3DED97;
   }
 
-  /* html {
-    cursor: url('../img/mycustomcursor.png'), pointer;
-} */
 
-a:hover {
+  a:hover {
     cursor: url('https://uploads-ssl.webflow.com/62af52cf612c974768d3d8c9/6391280847a38f3cf5faf282_Group%202%20(7).svg'), auto !important;
-}
-body {
-cursor: url("https://uploads-ssl.webflow.com/62af52cf612c974768d3d8c9/639127c31795d00e2b0cc4c5_Group%207%20(4).svg"), auto !important;
-}
-.text-block-11:hover {
+  }
+
+  body {
+    cursor: url("https://uploads-ssl.webflow.com/62af52cf612c974768d3d8c9/639127c31795d00e2b0cc4c5_Group%207%20(4).svg"), auto !important;
+  }
+
+  .text-block-11:hover {
     cursor: url('https://uploads-ssl.webflow.com/62af52cf612c974768d3d8c9/6391280847a38f3cf5faf282_Group%202%20(7).svg'), auto !important;
-}
+  }
 
